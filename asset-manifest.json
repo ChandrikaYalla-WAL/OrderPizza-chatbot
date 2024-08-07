@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OrderPizza-chatbot/static/css/main.0a9dbc9e.css",
+    "main.js": "/OrderPizza-chatbot/static/js/main.ef4d092d.js",
+    "static/js/453.01e0e157.chunk.js": "/OrderPizza-chatbot/static/js/453.01e0e157.chunk.js",
+    "index.html": "/OrderPizza-chatbot/index.html",
+    "main.0a9dbc9e.css.map": "/OrderPizza-chatbot/static/css/main.0a9dbc9e.css.map",
+    "main.ef4d092d.js.map": "/OrderPizza-chatbot/static/js/main.ef4d092d.js.map",
+    "453.01e0e157.chunk.js.map": "/OrderPizza-chatbot/static/js/453.01e0e157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9dbc9e.css",
+    "static/js/main.ef4d092d.js"
+  ]
+}
